@@ -1,0 +1,28 @@
+{
+    product: 'Ext JS',
+    license: 'GPLv3',
+    url: {
+        home: 'http://www.sencha.com/products/extjs/',
+        git: 'git@github.com:xantus/ext-js-gpl.git',
+        docs: 'http://docs.sencha.com/'
+    },
+    versions: [{
+        '4.2.1': {
+            path: 'ext-4.2.1/',
+            docs: 'http://docs.sencha.com/extjs/4.2.1/',
+            version: {
+                full: '4.2.1.883',
+                major: 4,
+                minor: 2,
+                patch: 1,
+                rev: 883,
+                str: '4.2',
+                name: 'ext-4.2.1.883',
+                built: '2013-05-16 14:36:50',
+                git: {
+                    hash: 'f9be68accb407158ba2b1be2c226a6ce1f649314'
+                }
+            }
+        }
+    }]
+]
