@@ -5,7 +5,7 @@ You can use this git repo in your own git repos:
 Add it as a submodule on your own project
 
     $ cd my-project-dir
-    $ git submodule --add ext-js-gpl git@github.com:xantus/ext-js-gpl.git
+    $ git submodule add git@github.com:xantus/ext-js-gpl.git ext-js
     $ git submodule update --init
 
 ## Other ways to get Ext JS
